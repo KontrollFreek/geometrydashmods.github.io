@@ -1,3 +1,7 @@
+body {
+    background-color: #333;
+}
+
 .navigation-links {
     overflow: hidden;
     background-color: #333;
