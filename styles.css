@@ -1,9 +1,9 @@
-.leftside {
+.navigation-links {
     overflow: hidden;
     background-color: #333;
 }
 
-.leftside a {
+.navigation-links a {
     float: left;
     display: block;
     color: #f2f2f2;
@@ -12,7 +12,7 @@
     text-decoration: none;
 }
 
-.leftside a:hover {
+.navigation-links a:hover {
     background-color: #ddd;
     color: black;
 }
