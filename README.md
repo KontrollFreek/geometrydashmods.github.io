@@ -1,5 +1,5 @@
 # geometrydashmods.github.io
- A website hosting free downloads for Geometry Dash mods! Install, use and create your own GD mods here!
+ A website hosting downloads for Geometry Dash mods! Install, use and publish your own GD mods here!
  
  Created by 1vb/Iris Tran. All mods belong to the respective owners.
  
