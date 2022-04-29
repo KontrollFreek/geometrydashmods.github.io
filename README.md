@@ -5,7 +5,7 @@
  
  Website created by [@irislovescoding](//github.com/irislovescoding) and [@Endy3032](//github.com/Endy3032). All mods hosted on the site belong to the respective owners.
  
- Contact me:
+ Contacts:
  - Twitter: https://twitter.com/1vbbbbb_uwu
  - Tumblr: https://inferiortwinksbody.tumblr.com/
  - Discord: 1vb#7638
