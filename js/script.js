@@ -1,3 +1,9 @@
+function readyFn( jQuery ) {
+    $(".dropdown-trigger").dropdown({ hover: false });
+}
+
 $(document).ready(function(){
-    $(".dropdown-trigger").dropdown();
+    $('.sidenav').sidenav();
 });
+
+$( document ).ready( readyFn );
