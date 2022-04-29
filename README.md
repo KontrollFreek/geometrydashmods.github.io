@@ -3,7 +3,7 @@
  
  This project aims for ease and convenience when installing GD mods, which will improve drastically your experience with the game. First one-stop website for all your GD modding needs.
  
- Website created by [@irislovescoding](//github.com/irislovescoding) and [@Endy3032](//github.com/Endy3032). All mods hosted on the site belong to the respective owners.
+ Website created by [@irislovescoding](//github.com/irislovescoding) with some help from [@Endy3032](//github.com/Endy3032). All mods hosted on the site belong to the respective owners.
  
  Contacts:
  - Twitter: https://twitter.com/1vbbbbb_uwu
