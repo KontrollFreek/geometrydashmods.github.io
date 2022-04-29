@@ -1,9 +1,12 @@
-function readyFn( jQuery ) {
-    $(".dropdown-trigger").dropdown({ hover: false });
-}
+document.addEventListener('DOMContentLoaded', () => {
+  sidenavs = document.querySelectorAll('.sidenav')
+  M.Sidenav.init(sidenavs)
 
-$(document).ready(function(){
-    $('.sidenav').sidenav();
-});
-
-$( document ).ready( readyFn );
+  dropdown = document.querySelectorAll('.dropdown-trigger')
+  dropdowncontainer = document.querySelector('.dropdown-container')
+  M.Dropdown.init(dropdown, {
+    constrainWidth: false,
+    container: dropdowncontainer,
+    coverTrigger: false
+  })
+})
