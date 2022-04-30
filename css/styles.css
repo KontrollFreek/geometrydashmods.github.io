@@ -1,0 +1,39 @@
+body {
+    background-color: #121313;
+}
+
+.navbar {
+    background-color: #1f1f1f;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+
+.navbar-brand {
+    position: absolute;
+    background-image: url(../images/logo.png);
+    transition: all 0.3s ease;
+    height: 2.5rem;
+    margin: 0.1rem;
+    aspect-ratio: 2266/578;
+    transform: translate(0%, -60%);
+    top: 50%;
+    padding: 0.25rem;
+    left: 1rem;
+    background-size: cover;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
