@@ -6,3 +6,7 @@ body {
     border: transparent;
     border: none;
   }
+
+.alert-success {
+    margin: 1rem;
+}
