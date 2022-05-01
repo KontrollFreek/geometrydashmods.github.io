@@ -31,9 +31,14 @@ body {
 }
 
 .nav-link:hover {
-    color: #000;
+    color: #0d6efd;
 }
 
 .navbar-collapse {
     justify-content: flex-end;
 }
+
+button.navbar-toggler {
+    right: 100%;
+}
+
