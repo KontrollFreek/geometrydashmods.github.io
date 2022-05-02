@@ -10,3 +10,11 @@ body {
 .alert {
     margin: 1rem;
 }
+
+.row {
+    margin: 1rem;
+}
+
+.card {
+    border:transparent;
+}
