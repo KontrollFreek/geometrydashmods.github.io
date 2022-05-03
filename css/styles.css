@@ -1,11 +1,12 @@
 body {
     background-color: #121313;
+    overflow: hidden;
 }
 
-.dropdown-menu{
+.dropdown-menu {
     border: transparent;
     border: none;
-  }
+}
 
 .alert {
     margin: 1rem;
@@ -16,5 +17,66 @@ body {
 }
 
 .card {
-    border:transparent;
+    border: transparent;
+}
+
+.btn-close {
+    filter: invert(75%);
+}
+
+.nav-item {
+    padding: 0 10px;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+}
+
+.alert {
+    text-align: center;
+}
+
+.card-img-top {
+    background-color: #212529;
+}
+
+.loadscreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #262626;
+    z-index: 1021;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.loadscreen > img {
+    width: 20vw;
+    max-width: 100px;
+    animation: spin 2s infinite cubic-bezier(.4,0,.01,1.3);
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    80% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+:focus-visible {
+    outline: 0;
+}
+
+::-webkit-scrollbar {
+    background-color: #171818;
 }
