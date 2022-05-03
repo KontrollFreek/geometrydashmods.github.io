@@ -5,7 +5,7 @@ const mods = [
     {
         image: "saimodpack.png",
         name: "Sai Mod Pack",
-        description: "A mod pack with many integrated features, such as FPS Changer, color pallette, custom particles, and more!"
+        description: "A mod pack with many integrated features, such as FPS Changer, color palette, custom particles, and more!"
     },
     {
         image: "betteredit.png",
