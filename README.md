@@ -8,6 +8,6 @@
  Contacts:
  - Twitter: https://twitter.com/1vbbbbb_uwu
  - Tumblr: https://inferiortwinksbody.tumblr.com/
- - Discord: 1vb#7638
+ - Discord: [1vb#7638](https://discord.com/users/909187371294134292)
 
 # NOTE: THIS WEBSITE IS STILL A PROJECT IN DEVELOPMENT! I WILL GIVE AN ANNOUNCEMENT ON A RELEASE DATE IN THE FUTURE!
